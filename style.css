@@ -28,15 +28,22 @@ a{
 a:hover{
     color: black;
 } 
+
 input{
-    width: 300px;
+    width: 200px;
     padding: 10px;
     border-radius: 10px;
     margin: 20px;
     background-color:  whitesmoke;
     opacity: 0.9;
-    
 }
+.click{
+        width: 100px;
+        padding: 10px;
+        border-radius: 10px;
+        background-color: grey;
+        opacity: 0.5;
+    }
 input:hover{
     color: black;
 }
